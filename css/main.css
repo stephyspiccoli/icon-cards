@@ -17,4 +17,5 @@ a {
 
 .card:hover .btn {
   background-color: #333;
+  color: #fff;
 }
