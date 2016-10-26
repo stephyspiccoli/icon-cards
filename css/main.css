@@ -1,0 +1,12 @@
+html {
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card {
+  border: 3px solid #000;
+  border-radius: 8px;
+}
